@@ -13,10 +13,10 @@ jobs:
         node-version: ['20.12.2']
 
     steps:
-      - uses: actions/checkoutv4
+      - uses: actions/checkout@v4
 
       - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-nodev4
+        uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
           cache: 'npm'
@@ -25,9 +25,9 @@ jobs:
         run: npm ci
 
       - name: Run npm build
-        run: npm run build:prod
+        run: npm run build
 
       - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pagesv4
+        uses: peaceiris/actions-gh-pages@v4
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
