@@ -33,6 +33,12 @@ Prior to pursuing an MLIS, I worked for several years as a Web and Product Desig
 
 ### Writings & Experiments
 
-### Skills & Tools
+### Skills & Technologies
+
+**LIS Skills:** metadata record creation; digital collection building; digital object curation; digitization; digital preservation; print-to-web data migration; database searching
+
+**Design & Research Skills:** information architecture; low-to-high fidelity mockups; application prototyping; human-centered design activities (e.g. user stories development, user journeys, card sorting, affinity exercises); user research (e.g. surveys, interviews, testing); competitive analysis; data visualization
+
+**Technologies:** HTML/CSS/basic JS; JSON; Git/Github; static site generation (Jekyll, Eleventy); Omeka (hosted); LibGuides; content management systems (WordPress, Storyblok); user interface frameworks (Bootstrap, Material); Figma; collaboration tools (Slack, Teams, Confluence, Zoom, Notion); RDF/XML; SPARQL; knowledge databases/graphs (Neo4j, Cypher)
 
 ### Get in Touch
