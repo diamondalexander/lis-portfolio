@@ -7,8 +7,8 @@ title: 'Home | Diamond Alexander'
 ## About Me
 
 MLIS, June 2024
-Specializing in Information Technology, Digital Libraries, and Archives/Records Management 
-Whether I’m wrangling e-resources in LibGuides, crafting metadata application profiles, or designing digital exhibits, I love using technology to improve access & discovery for all users.
+Specializing in Information Technology, Digital Libraries, and Archives/Records Management
+Whether I’m wrangling content in LibGuides, crafting metadata application profiles, or designing digital exhibits, I love using technology to improve access & discovery for all users.
 
 <a href="/assets/Diamond-Alexander-CV.pdf" target="_blank">View CV</a>
 
