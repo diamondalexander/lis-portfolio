@@ -33,6 +33,7 @@ Prior to pursuing an MLIS, I worked for several years as a Web and Product Desig
 ### Academic Work
 
 {% include 'academic-work.njk' %}
+{% include 'project-grid.njk' %}
 
 ### Writings & Experiments
 
