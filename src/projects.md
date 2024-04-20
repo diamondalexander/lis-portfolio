@@ -7,5 +7,5 @@ layout: 'base.njk'
 
 Learn more about the projects and course assignments I've completed
 
-{% include 'academic-work.njk' %}
-{% include 'project-grid.njk' %}
+{% include 'parts/academic-work.njk' %}
+{% include 'parts/project-grid.njk' %}
