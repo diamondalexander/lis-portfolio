@@ -11,7 +11,7 @@ module.exports = function (eleventyConfig) {
       pathPrefix: "/lis-portfolio/",
       dir: {
         input: "src",
-        output: "public"
+        output: "public",
       },
     };
   };
