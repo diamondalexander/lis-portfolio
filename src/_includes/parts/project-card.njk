@@ -1,10 +1,10 @@
-<article class="project-card">
-    <div class="project-card__body">
-      <h3 class="project-card__title">
-        <a href="{{ project.url }}">{{ project.data.title }}</a>
-      </h3>
-      <p class="project-card__description">{{ project.data.description }}</p>
-      <a class="project-card__link" href="{{ project.url }}">View project</a>
+<div class="col">
+  <div class="card h-100">
+    <a href="{{ project.url }}"><img class="card-img-top" src="https://via.placeholder.com/700x400" alt=""></a>
+    <div class="card-body">
+      <a href="{{ project.url }}"><h5 class="card-title">{{ project.data.title }}</h5></a>
+      <p class="card-text">{{ project.data.description }}</p>
+      <a class="card-link" href="{{ project.url }}">View project</a>
     </div>
-</article>
-  
+</div>
+</div>

@@ -1,7 +1,10 @@
-<section class="projects">
+{% for project in collections.projects %}
+  {% include "parts/project-card.njk" %}
+{% endfor %}
+<!-- <section class="projects">
     <div class="project-grid">
       {% for project in collections.projects %}
         {% include "parts/project-card.njk" %}
       {% endfor %}
     </div>
-</section>
+</section> -->
