@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:mua="http://purl.org/muametadata/parts/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    >
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/041554496970">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>041554496970</mua:itemID>
+        <mua:productName>Super Stay Matte Ink</mua:productName>
+        <mua:shadeName>Escapist</mua:shadeName>
+        <mua:brand rdfs:label="Maybelline New York" rdf:resource="https://www.maybelline.com/" />
+        <mua:productType rdfs:label="lipstick" rdf:resource="https://purl.org/muametadata/glossary/lip/lipstick" />
+        <mua:color>purple</mua:color>
+        <mua:productForm>liquid</mua:productForm>
+        <mua:finish>matte</mua:finish>
+        <mua:volumeMet>5.0 ml</mua:volumeMet>
+        <mua:volumeUS>0.17 fl. oz.</mua:volumeUS>
+        <mua:ewg rdfs:label="6" rdf:resource="https://www.ewg.org/skindeep/products/1013860-Maybelline_Super_Stay_Matte_Ink_Liquid_Lipstick_Lip_Makeup_Escapist_017_fl_oz/"/>
+        <mua:keywords>dark, eggplant, vampy</mua:keywords>
+        <mua:relatedTo rdfs:label="Super Stay Matte Ink: Explorer" rdf:resource="https://www.barcodelookup.com/041554554458" />
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/041554554458">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>041554554458</mua:itemID>
+        <mua:productName>Super Stay Matte Ink</mua:productName>
+        <mua:shadeName>Explorer</mua:shadeName>
+        <mua:brand rdfs:label="Maybelline New York" rdf:resource="https://www.maybelline.com/" />
+        <mua:productType rdfs:label="lipstick" rdf:resource="https://purl.org/muametadata/glossary/lip/lipstick" />
+        <mua:color>blue</mua:color>
+        <mua:productForm>liquid</mua:productForm>
+        <mua:finish>matte</mua:finish>
+        <mua:volumeMet>5.0 ml</mua:volumeMet>
+        <mua:volumeUS>0.17 fl. oz.</mua:volumeUS> 
+        <mua:ewg>Score not available</mua:ewg>
+        <mua:keywords>dark, blue-black, midnight blue</mua:keywords>
+        <mua:relatedTo rdfs:label="Super Stay Matte Ink: Escapist" rdf:resource="https://www.barcodelookup.com/041554496970" />
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/755296262310">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>755296262310</mua:itemID>
+        <mua:productName>101 Ointment Multipurpose Superbalm</mua:productName>
+        <mua:brand rdfs:label="Lanolips" rdf:resource="https://lanolips.com/" />
+        <mua:productType rdfs:label="lip balm" rdf:resource="https://purl.org/muametadata/glossary/lip/lip_balm" />
+        <mua:color>natural</mua:color>
+        <mua:productForm>balm</mua:productForm>
+        <mua:finish>shiny</mua:finish>
+        <mua:netWeightMet>15 g</mua:netWeightMet>
+        <mua:netWeightUS>0.52 oz.</mua:netWeightUS>
+        <mua:ewg>Score not available</mua:ewg>
+        <mua:keywords>moisturizing, creamy, solid when cold, pricey</mua:keywords>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/651986972074">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>651986972074</mua:itemID>
+        <mua:productName>Lip Injection Extreme</mua:productName>
+        <mua:brand rdfs:label="Too Faced" rdf:resource="https://www.toofaced.com/" />
+        <mua:productType rdfs:label="lip plumper" rdf:resource="https://purl.org/muametadata/glossary/lip/lip_plumper" />
+        <mua:color>natural</mua:color>
+        <mua:productForm>gloss</mua:productForm>
+        <mua:finish>glossy</mua:finish>
+        <mua:netWeightMet>2.8 g</mua:netWeightMet>
+        <mua:netWeightUS>0.10 oz.</mua:netWeightUS>
+        <mua:ewg rdfs:label="5" rdf:resource="https://www.ewg.org/skindeep/products/965689-Too_Faced_Lip_Injection_Extreme_Instant__Long_Term_Lip_Plumper_Original/" />
+        <mua:keywords>pearly</mua:keywords>
+        <mua:relatedTo rdfs:label="Lip Injection Maximum Plump" rdf:resource="https://www.barcodelookup.com/651986504749" />
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/773602153770">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>773602153770</mua:itemID>
+        <mua:productName>Dazzleglass</mua:productName>
+        <mua:shadeName>Get Rich Quick</mua:shadeName>
+        <mua:brand rdfs:label="MAC" rdf:resource="https://www.maccosmetics.com/" />
+        <mua:productType rdfs:label="lip gloss" rdf:resource="https://purl.org/muametadata/glossary/lip/lipgloss" />
+        <mua:color>pink</mua:color>
+        <mua:productForm>gloss</mua:productForm>
+        <mua:finish>glossy</mua:finish>
+        <mua:netWeightMet>1.92 g</mua:netWeightMet>
+        <mua:netWeightUS>0.06 oz.</mua:netWeightUS>
+        <mua:ewg>Score not available</mua:ewg>
+        <mua:keywords>nude, mauve, glitter, sparkly, sticky</mua:keywords>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/607845011545">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>607845011545</mua:itemID>
+        <mua:productName>Oil Infused Lip Tint</mua:productName>
+        <mua:shadeName>Orgasm</mua:shadeName>
+        <mua:brand rdfs:label="NARS" rdf:resource="https://www.narscosmetics.com/" />
+        <mua:productType rdfs:label="lip gloss" rdf:resource="https://purl.org/muametadata/glossary/lip/lipgloss" />
+        <mua:color>pink</mua:color>
+        <mua:productForm>gloss</mua:productForm>
+        <mua:finish>glossy</mua:finish>
+        <mua:volumeMet>5.7 mL</mua:volumeMet>
+        <mua:volumeUS>0.17 fl. oz.</mua:volumeUS>
+        <mua:ewg>Score not available</mua:ewg>
+        <mua:keywords>shimmer, sheer</mua:keywords>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/071249358627">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>71249358627</mua:itemID>
+        <mua:productName>Infallible Pro Matte Liquid Lipstick</mua:productName>
+        <mua:shadeName>Plum Bum</mua:shadeName>
+        <mua:brand rdfs:label="L'Oréal Paris" rdf:resource="https://www.lorealparisusa.com/" />
+        <mua:productType rdfs:label="lipstick" rdf:resource="https://purl.org/muametadata/glossary/lip/lipstick" />
+        <mua:color>purple</mua:color>
+        <mua:productForm>liquid</mua:productForm>
+        <mua:finish>matter</mua:finish>
+        <mua:volumeMet>6.3 mL</mua:volumeMet>
+        <mua:volumeUS>0.21 fl. oz.</mua:volumeUS>
+        <mua:ewg>Score not available</mua:ewg>
+        <mua:keywords>mauve, burgundy</mua:keywords>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/651986504749">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>651986504749</mua:itemID>
+        <mua:productName>Lip Injection Maximum Plump</mua:productName>
+        <mua:brand rdfs:label="Too Faced" rdf:resource="https://www.toofaced.com/" />
+        <mua:productType rdfs:label="lip plumper" rdf:resource="https://purl.org/muametadata/glossary/lip/lip_plumper" />
+        <mua:color>pink</mua:color>
+        <mua:productForm>gloss</mua:productForm>
+        <mua:finish>glossy</mua:finish>
+        <mua:netWeightMet>2.8 g</mua:netWeightMet>
+        <mua:netWeightUS>0.10 oz.</mua:netWeightUS>
+        <mua:ewg rdfs:label="5" rdf:resource="https://www.ewg.org/skindeep/products/988141-Too_Faced_Lip_Injection_Maximum_Plump_Extra_Strength_Instant__Long_Term_Lip_Plumper/" />
+        <mua:relatedTo rdfs:label="Lip Injection Extreme" rdf:resource="https://www.barcodelookup.com/651986972074" />
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/773602567850">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>773602567850</mua:itemID>
+        <mua:productName>Powder Kiss Liquid Lipcolour</mua:productName>
+        <mua:shadeName>A Little Tamed</mua:shadeName>
+        <mua:brand rdfs:label="MAC" rdf:resource="https://www.maccosmetics.com/" />
+        <mua:productType rdfs:label="lipstick" rdf:resource="https://purl.org/muametadata/glossary/lip/lipstick" />
+        <mua:color>pink</mua:color>
+        <mua:productForm>cream</mua:productForm>
+        <mua:finish>powder</mua:finish>
+        <mua:volumeMet>5 mL</mua:volumeMet>
+        <mua:volumeUS>0.17 fl. oz.</mua:volumeUS>
+        <mua:ewg rdfs:label="5" rdf:resource="https://www.ewg.org/skindeep/products/964017-mac-powder-kiss-liquid-lipcolour-a-little-tamed-988/" />
+        <mua:keywords>reddish-pink, soft, creamy, natural makeup</mua:keywords>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/607845024545">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>607845024545</mua:itemID>
+        <mua:productName>Velvet Matte Lip Pencil</mua:productName>
+        <mua:shadeName>Cruella</mua:shadeName>
+        <mua:brand rdfs:label="NARS" rdf:resource="https://www.narscosmetics.com/" />
+        <mua:productType rdfs:label="lipstick" rdf:resource="https://purl.org/muametadata/glossary/lip/lipstick" />
+        <mua:color>red</mua:color>
+        <mua:productForm>pencil</mua:productForm>
+        <mua:finish>matte</mua:finish>
+        <mua:netWeightMet>1.8 g</mua:netWeightMet>
+        <mua:netWeightUS>0.06 oz.</mua:netWeightUS>
+        <mua:ewg>Score not available</mua:ewg>
+        <mua:keywords>deep red</mua:keywords>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/717489590044">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>717489590044</mua:itemID>
+        <mua:productName>Keep It Full Nourishing Lip Plumper</mua:productName>
+        <mua:shadeName>Luminoso</mua:shadeName>
+        <mua:brand rdfs:label="Milani" rdf:resource="https://www.milanicosmetics.com/" />
+        <mua:productType rdfs:label="lip plumper" rdf:resource="https://purl.org/muametadata/glossary/lip/lip_plumper" />
+        <mua:color>pink</mua:color>
+        <mua:productForm>gloss</mua:productForm>
+        <mua:finish>glossy</mua:finish>
+        <mua:volumeMet>3.70 mL</mua:volumeMet>
+        <mua:volumeUS>0.13 fl. oz.</mua:volumeUS>
+        <mua:ewg rdfs:label="6" rdf:resource="https://www.ewg.org/skindeep/products/949328-milani-keep-it-full-nourishing-lip-plumper-04-luminoso/" />
+        <mua:keywords>shimmery, sparkly, long-lasting, sticky</mua:keywords>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/081555738266">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>81555738266</mua:itemID>
+        <mua:productName>Lipgloss &amp; Lipstick Duo</mua:productName>
+        <mua:shadeName>Charmed</mua:shadeName>
+        <mua:brand rdfs:label="L.A. Colors" rdf:resource="https://www.lacolors.com/" />
+        <mua:productType rdfs:label="lipstick" rdf:resource="https://purl.org/muametadata/glossary/lip/lipstick" />
+        <mua:productType rdfs:label="lip gloss" rdf:resource="https://purl.org/muametadata/glossary/lip/lipgloss" />
+        <mua:color>red</mua:color>
+        <mua:productForm>gloss</mua:productForm>
+        <mua:productForm>stick</mua:productForm>
+        <mua:finish>glossy</mua:finish>
+        <mua:finish>satin</mua:finish>
+        <mua:volumeMet>3.5 mL</mua:volumeMet>
+        <mua:volumeUS>0.11 fl. oz.</mua:volumeUS>
+        <mua:netWeightMet>3.5 g</mua:netWeightMet>
+        <mua:netWeightUS>0.12 oz.</mua:netWeightUS>
+        <mua:ewg>Score not available</mua:ewg>
+        <mua:keywords>sparkly, holiday, two-in-one</mua:keywords>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/792486969154">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>792486969154</mua:itemID>
+        <mua:productName>Everlasting Liquid Lipstick</mua:productName>
+        <mua:shadeName>Lolita</mua:shadeName>
+        <mua:brand rdfs:label="KVD Beauty" rdf:resource="https://kvdveganbeauty.com/" />
+        <mua:productType rdfs:label="lipstick" rdf:resource="https://purl.org/muametadata/glossary/lip/lipstick" />
+        <mua:color>brown</mua:color>
+        <mua:productForm>liquid</mua:productForm>
+        <mua:finish>matte</mua:finish>
+        <mua:volumeMet>6.6 mL</mua:volumeMet>
+        <mua:volumeUS>0.22 fl. oz.</mua:volumeUS>
+        <mua:ewg rdfs:label="2" rdf:resource="https://www.ewg.org/skindeep/products/980161-KVD_Beauty_Everlasting_Liquid_Lipstick_Lolita_Ii_20/" />
+        <mua:keywords>pinky-brown, nude, safe for work</mua:keywords>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/773602344314">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>773602344314</mua:itemID>
+        <mua:productName>Lip Pencil</mua:productName>
+        <mua:shadeName>Ruby Woo</mua:shadeName>
+        <mua:brand rdfs:label="MAC" rdf:resource="https://www.maccosmetics.com/" />
+        <mua:productType rdfs:label="lip liner" rdf:resource="https://purl.org/muametadata/glossary/lip/lipliner" />
+        <mua:color>red</mua:color>
+        <mua:productForm>pencil</mua:productForm>
+        <mua:finish>matte</mua:finish>
+        <mua:netWeightMet>1.45 g</mua:netWeightMet>
+        <mua:netWeightUS>0.05 oz.</mua:netWeightUS>
+        <mua:ewg rdfs:label="4" rdf:resource="https://www.ewg.org/skindeep/products/964056-mac-lip-pencil-ruby-woo/" />
+        <mua:keywords>retro red</mua:keywords>
+        <mua:relatedTo rdfs:label="Retro Matte Lipstick: Ruby Woo" rdf:resource="https://www.barcodelookup.com/773602040605" />
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/773602040605">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>773602040605</mua:itemID>
+        <mua:productName>Retro Matte Lipstick</mua:productName>
+        <mua:shadeName>Ruby Woo</mua:shadeName>
+        <mua:brand rdfs:label="MAC" rdf:resource="https://www.maccosmetics.com/" />
+        <mua:productType rdfs:label="lipstick" rdf:resource="https://purl.org/muametadata/glossary/lip/lipstick" />
+        <mua:color>red</mua:color>
+        <mua:productForm>stick</mua:productForm>
+        <mua:finish>matte</mua:finish>
+        <mua:netWeightMet>3 g</mua:netWeightMet>
+        <mua:netWeightUS>0.1 oz.</mua:netWeightUS>
+        <mua:ewg rdfs:label="4" rdf:resource="https://www.ewg.org/skindeep/products/964003-mac-retro-matte-lipstick-ruby-woo-707/" />
+        <mua:keywords>retro red</mua:keywords>
+        <mua:relatedTo rdfs:label="Lip Liner: Ruby Woo" rdf:resource="https://www.barcodelookup.com/773602344314" />
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/800897142902">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>800897142902</mua:itemID>
+        <mua:productName>Soft Matte Lip Cream</mua:productName>
+        <mua:shadeName>Abu Dhabi</mua:shadeName>
+        <mua:brand rdfs:label="NYX" rdf:resource="https://www.nyxcosmetics.com/" />
+        <mua:productType rdfs:label="lipstick" rdf:resource="https://purl.org/muametadata/glossary/lip/lipstick" />
+        <mua:color>brown</mua:color>
+        <mua:productForm>cream</mua:productForm>
+        <mua:finish>matte</mua:finish>
+        <mua:volumeMet>8 mL</mua:volumeMet>
+        <mua:volumeUS>0.27 fl. oz.</mua:volumeUS>
+        <mua:ewg>Score not available</mua:ewg>
+        <mua:keywords>nude, pinky-brown</mua:keywords>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/773602430109">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>773602430109</mua:itemID>
+        <mua:productName>Lip Pencil</mua:productName>
+        <mua:shadeName>Stripdown</mua:shadeName>
+        <mua:brand rdfs:label="MAC" rdf:resource="https://www.maccosmetics.com/" />
+        <mua:productType rdfs:label="lip liner" rdf:resource="https://purl.org/muametadata/glossary/lip/lipliner" />
+        <mua:color>brown</mua:color>
+        <mua:productForm>pencil</mua:productForm>
+        <mua:finish>matte</mua:finish>
+        <mua:netWeightMet>1.45 g</mua:netWeightMet>
+        <mua:netWeightUS>0.05 oz.</mua:netWeightUS>
+        <mua:ewg rdfs:label="4" rdf:resource="https://www.ewg.org/skindeep/products/968571-mac-lip-pencil-stripdown/" />
+        <mua:keywords>classic, nude, basic</mua:keywords>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/5045098360174">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>5045098360174</mua:itemID>
+        <mua:productName>Sexy Mother Pucker Lip Gloss XL Extreme Plump</mua:productName>
+        <mua:brand rdfs:label="Soap &amp; Glory" rdf:resource="https://www.soapandglory.com/" />
+        <mua:productType rdfs:label="lip plumper" rdf:resource="https://purl.org/muametadata/glossary/lip/lip_plumper" />
+        <mua:color>clear</mua:color>
+        <mua:productForm>gloss</mua:productForm>
+        <mua:finish>glossy</mua:finish>
+        <mua:volumeMet>10 mL</mua:volumeMet>
+        <mua:volumeUS>0.33 fl. oz.</mua:volumeUS>
+        <mua:ewg rdfs:label="3" rdf:resource="https://www.ewg.org/skindeep/products/978950-soap-glory-sexy-xl-mother-pucker-extreme-plump-lip-gloss/" />
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/885624909706">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>885624909706</mua:itemID>
+        <mua:productName>Lip Pencil</mua:productName>
+        <mua:shadeName>Burgundy</mua:shadeName>
+        <mua:brand rdfs:label="MAC" rdf:resource="https://www.maccosmetics.com/" />
+        <mua:productType rdfs:label="lip liner" rdf:resource="https://purl.org/muametadata/glossary/lip/lipliner" />
+        <mua:color>red</mua:color>
+        <mua:productForm>pencil</mua:productForm>
+        <mua:finish>matte</mua:finish>
+        <mua:netWeightMet>1.45 g</mua:netWeightMet>
+        <mua:netWeightUS>0.05 oz.</mua:netWeightUS>
+        <mua:ewg rdfs:label="4" rdf:resource="https://www.ewg.org/skindeep/products/965331-Mac_Lip_Pencil_Burgundy/" />
+        <mua:keywords>brownish, deep purple</mua:keywords>
+    </rdf:Description>
+    
+    <rdf:Description rdf:about="https://www.barcodelookup.com/731509832266">
+        <mua:partOf rdfs:label="Lip Products" rdf:resource="https://purl.org/muametadata/glossary/lip" />
+        <mua:itemID>731509832266</mua:itemID>
+        <mua:productName>Gold Oil Lip Gloss</mua:productName>
+        <mua:shadeName>24K Gold</mua:shadeName>
+        <mua:brand rdfs:label="Ruby Kisses" rdf:resource="https://rubykissescosmetics.com/" />
+        <mua:productType rdfs:label="lip gloss" rdf:resource="https://purl.org/muametadata/glossary/lip/lipgloss" />
+        <mua:color>clear</mua:color>
+        <mua:productForm>gloss</mua:productForm>
+        <mua:finish>glossy</mua:finish>
+        <mua:volumeMet>10 mL</mua:volumeMet>
+        <mua:volumeUS>0.33 fl. oz.</mua:volumeUS>
+        <mua:ewg>Score not available</mua:ewg>
+        <mua:keywords>sticky</mua:keywords>
+    </rdf:Description>
+    
+</rdf:RDF>
