@@ -1,6 +1,6 @@
 <div class="col">
   <div class="card h-100">
-    <a href="{{ project.url }}"><img class="card-img-top" src="https://via.placeholder.com/700x400" alt=""></a>
+    <a href="{{ project.url }}" class="project-image-wrapper"><img class="card-img-top" src="{{ project.data.projectImage }}" alt="decorative image"></a>
     <div class="card-body">
       <a href="{{ project.url }}"><h5 class="card-title">{{ project.data.title }}</h5></a>
       <p class="card-text">{{ project.data.description }}</p>
