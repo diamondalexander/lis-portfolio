@@ -11,5 +11,3 @@ Whether I’m wrangling content in LibGuides, crafting metadata application prof
 {% include 'parts/about-buttons.njk' %}
 
 ## Projects & Academic Work
-
-{% include 'parts/project-grid.njk' %}
