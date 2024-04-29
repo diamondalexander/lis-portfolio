@@ -1,20 +1,18 @@
 ---
-title: "Makeup Metadata Application Profile"
-course:
-institution:
-description: "Give a one-sentence description of the assignment."
-siteUrl: "#"
-repoUrl: "#"
+title: 'MUA Makeup Metadata'
+course: 'LIS 4404 Metadata Architectures (elective)'
+projectType: 'RDF/XML file'
+projectImage: '/images/mua-metadata-cover.jpg' 
+projectArtifact: '/assets/mua-makeup-records.rdf'
+description: 'Developing a set of RDF/XML metadata records, incorporating knowledge gained related to metadata schemas, controlled vocabularies, and linked data principles'
 ---
 
 ## About
 
-Mention the course for which this assignment was completed and whether it was a core or an elective course (unless it’s made clear by your layout). Give a one-sentence description of the assignment.
+As the final project for this course, this assignment was intended to serve as a culmination of the previous weeks’ learnings related to metadata schemas, encoding standards, controlled vocabularies, and linked data principles.
 
 ### Key Takeaways
 
-Outline two-three most important things that you learned in the process (consider incorporating transferable skills, e.g., interpersonal skills, communication, leadership; as well as content-related outcomes, e.g., specific technology skills, subject knowledge, etc.)
+I wanted to try something a little unconventional for this project so I chose to create a metadata application profile, and eventually namespace, for a makeup collection – specifically lip products. I learned an incredible amount of information about unique identifiers for commercial products, everything from UPCs to GS1 taxonomies and more, which opened my eyes to non-LIS applications for metadata and taxonomy activities. I also gained experience with writing RDF/XML records using OxygenXML and creating my own namespace to accommodate unique fields. I also used this project as an opportunity to review metadata profiles from other institutions, such as Carnegie Hall and UNLV, to gain deeper insight into how other librarians conceptualize metadata description, crosswalks, etc. If I could do this project again, with more time and the experience I’ve gained since, I would work to include many more URIs for my objects and try to incorporate Wikidata or the commercial data I found to improve my records from simple RDF records to linked data ones.
 
-### Final Result
-
-include link to pdf or finished product online
+### Additional Artifacts
