@@ -1,4 +1,6 @@
 body {
+    background-color: #f8f3ed;
+    color: #333;
     font-family: "DM Sans", sans-serif!important;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -18,7 +20,7 @@ h1, h2, h3, h4 {
     font-optical-sizing: auto;
     font-weight: 600;
     font-style: normal; */
-
+    color: #c35500;
     font-family: "Crimson Pro", serif!important;
     font-optical-sizing: auto;
     font-weight: 400;
