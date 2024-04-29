@@ -3,12 +3,15 @@ layout: 'base.njk'
 ---
 <div class="container">
     <div class="row justify-content-center">
-        <div class="col-8">
+        <div class="col">
             <header>
                 <h1>Diamond Alexander, MA, MLIS Candidate</h1>
             </header>
             <main>
                 {{ content | safe }}
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-4">
+                    {% include 'parts/project-grid.njk' %}
+                </div>
             </main>
         </div>
     </div>
