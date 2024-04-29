@@ -1,11 +1,11 @@
 ---
 layout: "base.njk"
 ---
-{% include 'parts/breadcrumbs.njk' %}
-
-<div class="project">
-  <h2 class="project__heading">{{ title }}</h2>
-  <div class="project__content prose">
+<div class="container">
+  {% include 'parts/breadcrumbs.njk' %}
+  <h2 class="project-heading">{{ title }}</h2>
+  <div>
     {{ content | safe }}
+    <a href="{{ projectArtifact }}" target="_blank">View {{ projectType }}</a>
   </div>
 </div>
