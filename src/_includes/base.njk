@@ -12,8 +12,15 @@
     <title>{{ title }}</title>
 </head>
 <body>
-    {{ content | safe }}
-    {% include 'parts/footer.njk' %}
+    <header>
+        {% include 'parts/header.njk' %}
+    </header>
+    <main>
+        {{ content | safe }}
+    </main>
+    <footer>
+        {% include 'parts/footer.njk' %}
+    </footer>
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
 </html>
