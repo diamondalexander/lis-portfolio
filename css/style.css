@@ -27,6 +27,12 @@ h1, h2, h3, h4 {
     font-style: normal;
 }
 
+.project-card-image {
+    height: 225px; 
+    object-fit: cover; 
+    object-position: top center;
+}
+
 footer svg {
     color: #c35500;
     width: 20px;
@@ -35,4 +41,9 @@ footer svg {
 
 footer svg:hover {
     color: #a84900;
+}
+
+.btn-primary {
+    background-color: #6C0345;
+    border-color: #6C0345;
 }
