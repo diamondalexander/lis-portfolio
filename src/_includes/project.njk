@@ -3,9 +3,23 @@ layout: "base.njk"
 ---
 <div class="container">
   {% include 'parts/breadcrumbs.njk' %}
-  <h2 class="project-heading">{{ title }}</h2>
-  <div>
-    {{ content | safe }}
-    <a href="{{ projectArtifact }}" target="_blank">View {{ projectType }}</a>
+</div>
+<div class="container col-xxl-10 px-4 py-2">
+  <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+    <div class="col-10 col-sm-8 col-lg-6">
+      <img src="{{ projectImage }}" class="d-block mx-lg-auto img-fluid project-page-image" alt="{{ projectImageAlt }}" width="500" height="400" loading="lazy">
+    </div>
+    <div class="col-lg-6">
+      <h1 class="lh-1 mb-3 project-page-title">{{ title }}</h1>
+      <p class="project-page-description">{{ description }}</p>
+      <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+        <a href="{{ projectArtifact }}" target="_blank" role="button" class="btn btn-primary btn-lg px-4 me-md-2">View {{ projectType }}</a>
+        <a href="#project-content" role="button" class="btn btn-secondary btn-lg px-4 me-md-2">Read More</a>
+      </div>
+    </div>
+    <hr>
+    <div id="project-content">
+      {{ content | safe }}
+    </div>
   </div>
 </div>
