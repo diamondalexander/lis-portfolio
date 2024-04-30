@@ -1,6 +1,7 @@
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 module.exports = function (eleventyConfig) {
+    eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
     eleventyConfig.addPassthroughCopy("./src/css");
     eleventyConfig.addWatchTarget("./src/css/");
     eleventyConfig.addPassthroughCopy("./src/images/");
