@@ -1,10 +1,10 @@
 <div class="col">
   <div class="card h-100">
-    <a href="{{ project.url }}" class="project-image-wrapper"><img class="card-img-top" src="{{ project.data.projectImage }}" alt="decorative image"></a>
+    <a href="{{ project.url }}"><img class="card-img-top project-card-image" src="{{ project.data.projectImage }}" alt="decorative image"></a>
     <div class="card-body">
       <a href="{{ project.url }}"><h5 class="card-title">{{ project.data.title }}</h5></a>
       <p class="card-text">{{ project.data.description }}</p>
-      <a class="card-link" href="{{ project.url }}">View project</a>
     </div>
+    <div class="card-footer mt-2"><a href="{{ project.url }}" title="link to {{ project.data.title }} project page">View project</a></div>
 </div>
 </div>
