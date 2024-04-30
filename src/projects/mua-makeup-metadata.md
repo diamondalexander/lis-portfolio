@@ -2,7 +2,8 @@
 title: 'MUA Makeup Metadata'
 course: 'LIS 4404 Metadata Architectures (elective)'
 projectType: 'RDF/XML file'
-projectImage: '/images/mua-metadata-cover.jpg' 
+projectImage: '/images/mua-metadata-cover.jpg'
+projectImageAlt: 'flat lay photo of makeup products on solid background'
 projectArtifact: '/assets/mua-makeup-records.rdf'
 description: 'Developing a set of RDF/XML metadata records, incorporating knowledge gained related to metadata schemas, controlled vocabularies, and linked data principles'
 ---
