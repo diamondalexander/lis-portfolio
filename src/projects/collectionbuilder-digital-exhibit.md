@@ -3,7 +3,7 @@ title: 'CollectionBuilder Digital Exhibit: Striking Form'
 course: 'University of Idaho’s Center for Digital Learning and Inquiry'
 projectType: 'digital exhibit'
 projectImage: '/images/collectionbuilder-cover.png'
-projectImageAlt: 'flat lay photo of makeup products on solid background'
+projectImageAlt: 'collage of photos and newspaper clippings which are objects found in the exhibit'
 projectArtifact: 'https://collectionbuilder-lis.github.io/striking-form/'
 description: 'Striking Form is a curated digital exhibit showcasing the personal, funny, and sometimes eyebrow-raising history of women & bowling in the US'
 ---
