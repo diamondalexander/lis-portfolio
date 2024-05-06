@@ -4,16 +4,7 @@ layout: "base.njk"
 <div class="container col-xxl-10 px-4 py-2">
   <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
       {% include 'parts/breadcrumbs.njk' %}
-    <div class="px-4 pt-5 my-5 text-center border-bottom">
-      <h1 class="display-4 fw-bold text-body-emphasis">{{ title }}</h1>
-      <div class="col-lg-6 mx-auto">
-        <p class="lead mb-4">{{ description }}</p>
-        <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
-          <a href="{{ projectArtifact }}" target="_blank" role="button" class="btn btn-primary btn-lg px-4 me-sm-3">View {{ projectType }}</a>
-          <a href="#project-content" role="button" class="btn btn-outline-secondary btn-lg px-4">Read More</a>
-        </div>
-      </div>
-    </div>
+      {% include 'parts/project-header.njk' %}
     <div id="project-content">
       {{ content | safe }}
     </div>
