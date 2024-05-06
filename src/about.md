@@ -1,9 +1,12 @@
 ---
-title: 'About'
 layout: 'base.njk'
+title: 'About'
+description: Whether I’m wrangling content in LibGuides, crafting metadata application profiles, or designing digital exhibits, I love using technology to improve access & discovery for all users
 ---
 
-# About Me
+{% include 'parts/default-page-header.njk' %}
+
+## Work Experience
 
 Prior to pursuing an MLIS, I worked for several years as a Web and Product Designer for various nonprofits, technology startups, and corporations where I led web design, digital strategy, user experience design, and interface accessibility activities. Some of previous employers & contracts include KPMG, Results for America, District of Columbia Public Schools, CityBridge Education, Penguin Random House, and The Land Trust Alliance.
 
