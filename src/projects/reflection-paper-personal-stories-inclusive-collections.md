@@ -3,9 +3,9 @@ title: 'Reflection Paper: Disability, Neurodiversity, and Inclusive Collections'
 course: 'LIS 4700 Engaging Disabled and Neurodiverse Communities (elective)'
 projectType: 'reflection paper'
 projectImage: '/images/engaging-disabled-neurodiverse-communities-cover.jpg'
+projectImageAlt: 'flat lay photo of makeup products on solid background'
 projectArtifact: '/assets/personal-narratives-inclusive-library-collections.pdf'
 description: 'Developing a greater awareness of disability & neurodiversity-related topics through engagement with first-person or personal narratives'
-siteUrl:
 ---
 
 ## About

@@ -1,6 +1,6 @@
 ---
-title: 'Site Credits'
 layout: 'base.njk'
+title: 'Site Credits'
 ---
 
 ## Site Credits

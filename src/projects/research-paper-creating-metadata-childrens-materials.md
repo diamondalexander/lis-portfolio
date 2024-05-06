@@ -3,6 +3,7 @@ title: "Research Paper: Creating Metadata for Children's Materials"
 course: 'LIS 4010 Organization of Information (core)'
 projectType: 'research paper'
 projectImage: '/images/childrens-metadata-cover.jpg'
+projectImageAlt: 'flat lay photo of makeup products on solid background'
 projectArtifact: '/assets/creating-metadata-for-childrens-materials.pdf'
 description: 'Looking at the information-seeking behavior of children through surveying scholarly literature and analyzing material description examples'
 ---
