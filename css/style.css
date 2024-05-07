@@ -71,13 +71,13 @@ h1, h2, h3, h4, .nav-title {
     object-position: top center;
 }
 
-footer svg {
+footer svg, .homepage-callout-icons svg {
     color: #c35500;
     width: 20px;
     height: 20px;
 }
 
-footer svg:hover {
+footer svg:hover, .homepage-callout-icons svg:hover {
     color: #a84900;
 }
 
@@ -93,4 +93,47 @@ footer svg:hover {
     font-size: .85rem;
     font-weight: 500;
     border-radius: 4px;
+}
+
+.btn-primary {
+    background-color: #6C0345;
+    border-color: #6C0345;
+    /* background-color: #c35500;
+    border-color: #c35500; */
+}
+
+.btn-primary:hover {
+    background-color: #840455;
+    border-color: #840455;
+    /* background-color: #a84900;
+    border-color: #a84900; */
+}
+
+.btn:first-child:active {
+    background-color: #6C0345;
+    border-color: #6C0345;
+}
+
+.btn-secondary {
+    /* background-color: #796e5b; */
+    background-color: #948c7e;
+    border-color: #948c7e;
+}
+
+.btn-outline-secondary {
+    border-color: #796e5b;
+    color: #796e5b;
+    /* border-color: #948c7e;
+    color: #948c7e; */
+}
+
+.btn-outline-secondary:hover {
+    /* background-color: #796e5b; */
+    background-color: #948c7e;
+    border-color: #948c7e;
+}
+
+:not(.btn-check)+.btn:active {
+    border-color: #796e5b;
+    background-color: #796e5b;
 }
