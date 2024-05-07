@@ -79,6 +79,20 @@ h1, h2, h3, h4, .nav-title {
     object-position: top center;
 }
 
+.card a {
+    text-decoration: none;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
+
+.card-footer {
+    background-color: inherit;
+    border-top-color: #ededed;
+}
+
+
 footer svg, .homepage-callout-icons svg {
     color: #c35500;
     width: 20px;
