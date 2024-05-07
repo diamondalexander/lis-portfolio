@@ -35,73 +35,7 @@ h1, h2, h3, h4, .nav-title {
     font-style: normal;
 }
 
-.nav-title {
-    padding: 8px 16px;
-}
-
-.nav-link, #project-content a {
-    color: #333333; 
-}
-
-.nav-link:hover, #project-content a:hover {
-    color: #212529bf;
-}
-
-.vh-75 {
-    height: 75vh;
-}
-
-.homepage-alt {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    max-height: none;
-    display: flex;
-}
-
-.homepage-callout-title {
-    font-weight: 600;
-}
-
-.homepage-callout p {
-    font-size: 1em;
-    font-weight: 500;
-}
-
-.homepage-callout-icons svg {
-    width: 20px;
-    height: 20px;
-}
-
-.project-card-image {
-    height: 225px; 
-    object-fit: cover; 
-    object-position: top center;
-}
-
-.card a {
-    text-decoration: none;
-}
-
-.card a:hover {
-    text-decoration: underline;
-}
-
-.card-footer {
-    background-color: inherit;
-    border-top-color: #ededed;
-}
-
-
-footer svg, .homepage-callout-icons svg {
-    color: #c35500;
-    width: 20px;
-    height: 20px;
-}
-
-footer svg:hover, .homepage-callout-icons svg:hover {
-    color: #a84900;
-}
+/* BUTTONS */
 
 .btn-primary, .btn-secondary, .btn-outline-secondary {
     outline-offset: 0;
@@ -158,4 +92,85 @@ footer svg:hover, .homepage-callout-icons svg:hover {
 :not(.btn-check)+.btn:active {
     border-color: #796e5b;
     background-color: #796e5b;
+}
+
+/* NAVIGATION MENU */
+
+.nav-title {
+    padding: 8px 16px;
+}
+
+.nav-link, #project-content a {
+    color: #333333; 
+}
+
+.nav-link:hover, #project-content a:hover {
+    color: #212529bf;
+}
+
+/* HOMEPAGE */
+
+.vh-75 {
+    height: 75vh;
+}
+
+.homepage-alt {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-height: none;
+    display: flex;
+}
+
+.homepage-callout-title {
+    font-weight: 600;
+}
+
+.homepage-callout p {
+    font-size: 1em;
+    font-weight: 500;
+}
+
+.homepage-callout-icons svg {
+    width: 20px;
+    height: 20px;
+}
+
+/* PROJECT CARDS */
+
+.project-card-image {
+    height: 225px; 
+    object-fit: cover; 
+    object-position: top center;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
+
+.card-footer {
+    background-color: inherit;
+    border-top-color: #ededed;
+}
+
+/* PROJECT PAGE */
+
+#project-content h2:not(:first-child) {
+    margin-top: 1em;
+}
+
+/* FOOTER */
+
+footer svg, .homepage-callout-icons svg {
+    color: #c35500;
+    width: 20px;
+    height: 20px;
+}
+
+footer svg:hover, .homepage-callout-icons svg:hover {
+    color: #a84900;
 }
