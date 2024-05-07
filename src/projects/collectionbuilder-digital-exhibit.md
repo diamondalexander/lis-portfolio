@@ -14,6 +14,4 @@ CollectionBuilder (CB) is an open-source website tool that combines modern web t
 
 ### Key Takeaways
 
-Participating in this cohort greatly enriched my practical, technical knowledge of metadata management, static site generators, responsive web design, and GitHub & became a launchpad for me to learn more about web technologies. In fact, this portfolio is a static website I made using Eleventy & Bootstrap—which I felt comfortable building and deploying because of the hours of experience I gained by customizing my CollectionBuilder collection. Working with CollectionBuilder also enhanced my metadata management abilities
-
-### Final Result
+Participating in this cohort greatly enriched my practical, technical knowledge of metadata management, static site generators, responsive web design, and GitHub & became a launchpad for me to learn more about web technologies. In fact, this portfolio is a static website I made using Eleventy & Bootstrap—which I felt comfortable building and deploying because of the hours of experience I gained by customizing my CollectionBuilder collection. Working with CollectionBuilder also enhanced my metadata management abilities.

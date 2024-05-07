@@ -15,5 +15,3 @@ As a core introductory course to the MLIS degree program, the purpose of this as
 ### Key Takeaways
 
 As part of one of the earliest classes I took in the program, this assignment helped solidify my interest in metadata, discovery, and the user experience of library tools. This paper also developed within me a great deal of empathy for young people and their unique information-seeking behaviors.
-
-### Final Result

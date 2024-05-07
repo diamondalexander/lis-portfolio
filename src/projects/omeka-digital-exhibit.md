@@ -15,5 +15,3 @@ The intention of this assignment was to help students gain practical technical &
 ### Key Takeaways
 
 As the Metadata Architect for my team, I gained valuable experience in structuring metadata creation, developing standards for object description, and enhancing records with hyperlinks and copyright symbols. I also became more familiar with Omeka (and digital collections, in general) through this project and I was able to translate this experience into my work as part of the 2024 CollectionBuilder LIS Cohort.
-
-### Final Result
