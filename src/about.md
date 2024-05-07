@@ -1,5 +1,5 @@
 ---
-layout: 'base.njk'
+layout: 'base-about.njk'
 title: 'About'
 description: Whether I’m wrangling content in LibGuides, crafting metadata application profiles, or designing digital exhibits, I love using technology to improve access & discovery for all users
 ---
