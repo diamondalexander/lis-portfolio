@@ -157,6 +157,14 @@ h1, h2, h3, h4, .nav-title {
     border-top-color: #ededed;
 }
 
+.card-footer a {
+    color: #6C0345;
+}
+
+.card-footer a:hover {
+    color: #840455;
+}
+
 /* PROJECT PAGE */
 
 #project-content h2:not(:first-child) {
