@@ -51,6 +51,20 @@ h1, h2, h3, h4, .nav-title {
     display: flex;
 }
 
+.homepage-callout-title {
+    font-weight: 600;
+}
+
+.homepage-callout p {
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.homepage-callout-icons svg {
+    width: 20px;
+    height: 20px;
+}
+
 .project-card-image {
     height: 225px; 
     object-fit: cover; 
@@ -67,7 +81,16 @@ footer svg:hover {
     color: #a84900;
 }
 
-.btn-primary {
-    background-color: #6C0345;
-    border-color: #6C0345;
+.btn-primary, .btn-secondary, .btn-outline-secondary {
+    outline-offset: 0;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    width: auto;
+    min-width: 150px;
+    padding: 12px;
+    font-family: DM Sans, Arial, sans-serif;
+    font-size: .85rem;
+    font-weight: 500;
+    border-radius: 4px;
 }
