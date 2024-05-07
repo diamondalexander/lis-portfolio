@@ -12,6 +12,10 @@ description: 'Gaining practical technical & project management skills in the dev
 
 The intention of this assignment was to help students gain practical technical & project management skills in the development and curation of digital collections using Omeka.
 
-### Key Takeaways
+## Key Takeaways
 
 As the Metadata Architect for my team, I gained valuable experience in structuring metadata creation, developing standards for object description, and enhancing records with hyperlinks and copyright symbols. I also became more familiar with Omeka (and digital collections, in general) through this project and I was able to translate this experience into my work as part of the 2024 CollectionBuilder LIS Cohort.
+
+## Additional Artifacts
+
+{% include 'parts/omeka-artifacts.njk' %}

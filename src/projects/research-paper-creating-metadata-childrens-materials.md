@@ -12,6 +12,6 @@ description: 'Looking at the information-seeking behavior of children through su
 
 As a core introductory course to the MLIS degree program, the purpose of this assignment is to prepare students for further scholarly activities by having them select a current topic in LIS and write a research paper that critically reviews the chosen subject while offering additional analysis.
 
-### Key Takeaways
+## Key Takeaways
 
 As part of one of the earliest classes I took in the program, this assignment helped solidify my interest in metadata, discovery, and the user experience of library tools. This paper also developed within me a great deal of empathy for young people and their unique information-seeking behaviors.
