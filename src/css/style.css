@@ -35,6 +35,13 @@ h1, h2, h3, h4, .nav-title {
     font-style: normal;
 }
 
+.breadcrumb-container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
 /* BUTTONS */
 
 .btn-primary, .btn-secondary, .btn-outline-secondary {
@@ -142,6 +149,10 @@ h1, h2, h3, h4, .nav-title {
     height: 225px; 
     object-fit: cover; 
     object-position: top center;
+}
+
+.card-text {
+    font-size: 1em;
 }
 
 .card a {
