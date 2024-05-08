@@ -10,7 +10,7 @@ description: 'Striking Form is a curated digital exhibit showcasing the personal
 
 ## About
 
-CollectionBuilder (CB) is an open-source website tool that combines modern web technologies with structured metadata to build digital exhibits & collections. From January to April 2024, I joined nine other LIS students from across North America to work closely with the CB team to develop CollectionBuilder-CSV digital exhibits and contribute our learnings to the CB documentation and community.
+CollectionBuilder (CB) is an open-source website tool that combines modern web technologies with structured metadata to build digital exhibits & collections. From January to April 2024, I joined nine other LIS students from across North America to work closely with the CB team at the University of Idaho's Center for Digital Learning and Inquiry to develop CollectionBuilder-CSV digital exhibits and share our learnings to the CB community.
 
 ## Key Takeaways
 
