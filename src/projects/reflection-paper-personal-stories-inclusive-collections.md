@@ -8,6 +8,10 @@ projectArtifact: '/assets/personal-narratives-inclusive-library-collections.pdf'
 description: 'Developing a greater awareness of disability & neurodiversity-related topics through engagement with first-person or personal narratives'
 ---
 
+## Course Details
+
+{{ course }}
+
 ## About
 
 This assignment was an opportunity to develop a greater awareness of disability & neurodiversity-related topics through engagement with first-person or personal narratives by individuals who identify as part of either or both of these communities

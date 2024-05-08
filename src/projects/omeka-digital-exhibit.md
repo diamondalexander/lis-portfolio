@@ -8,6 +8,10 @@ projectArtifact: 'https://dulisspring2023.omeka.net/collections/show/3'
 description: 'Gaining practical technical & project management skills in the development and curation of digital collections using Omeka'
 ---
 
+## Course Details
+
+{{ course }}
+
 ## About
 
 The intention of this assignment was to help students gain practical technical & project management skills in the development and curation of digital collections using Omeka.

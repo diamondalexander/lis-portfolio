@@ -7,6 +7,9 @@ projectImageAlt: 'flat lay photo of makeup products on solid background'
 projectArtifact: '/assets/mua-makeup-metadata-application-profile.pdf'
 description: 'Developing a set of RDF/XML metadata records, incorporating knowledge gained related to metadata schemas, controlled vocabularies, and linked data principles'
 ---
+## Course Details
+
+{{ course }}
 
 ## About
 

@@ -8,6 +8,10 @@ projectArtifact: '/assets/electronic-finding-aids-power-of-presentation.pdf'
 description: 'Selecting an aspect of the archives field to research and analyze using scholarly literature'
 ---
 
+## Course Details
+
+{{ course }}
+
 ## About
 
 The goal of this paper was to select an aspect of the archives field (i.e. archival principles, core functions, or archival history) to research and analyze using scholarly literature.

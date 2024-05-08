@@ -8,6 +8,10 @@ projectArtifact: '/assets/creating-metadata-for-childrens-materials.pdf'
 description: 'Looking at the information-seeking behavior of children through surveying scholarly literature and analyzing material description examples'
 ---
 
+## Course Details
+
+{{ course }}
+
 ## About
 
 As a core introductory course to the MLIS degree program, the purpose of this assignment is to prepare students for further scholarly activities by having them select a current topic in LIS and write a research paper that critically reviews the chosen subject while offering additional analysis.
