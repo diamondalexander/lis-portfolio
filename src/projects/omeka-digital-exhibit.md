@@ -1,6 +1,6 @@
 ---
 title: 'Omeka Digital Exhibit: Wild Women - Art, Nature, and Claiming Space in US National Parks'
-course: 'LIS 4810 Digital Libraries (elective)'
+course: 'LIS 4810: Digital Libraries (elective)'
 projectType: 'digital exhibit'
 projectImage: '/images/wild-women-cover.jpeg'
 projectImageAlt: 'This photograph depicts a young woman perched on a rock, the breeze lifting her skirt slightly while she smiles'

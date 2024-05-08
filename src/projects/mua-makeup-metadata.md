@@ -1,6 +1,6 @@
 ---
 title: 'MUA Makeup Metadata'
-course: 'LIS 4404 Metadata Architectures (elective)'
+course: 'LIS 4404: Metadata Architectures (elective)'
 projectType: 'Application Profile'
 projectImage: '/images/mua-metadata-cover.jpg'
 projectImageAlt: 'flat lay photo of makeup products on solid background'

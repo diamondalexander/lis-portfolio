@@ -1,6 +1,6 @@
 ---
 title: 'Research Paper: Electronic Finding Aids: The Power of Presentation'
-course: 'LIS 4800 Introduction to Archives (elective)'
+course: 'LIS 4800: Introduction to Archives (elective)'
 projectType: 'research paper'
 projectImage: '/images/electronic-finding-aids-cover.jpg'
 projectImageAlt: 'image of rows of blue rolling library shelves with hand-cranks'

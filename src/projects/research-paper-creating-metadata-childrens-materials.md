@@ -1,6 +1,6 @@
 ---
 title: "Research Paper: Creating Metadata for Children's Materials"
-course: 'LIS 4010 Organization of Information (core)'
+course: 'LIS 4010: Organization of Information (core)'
 projectType: 'research paper'
 projectImage: '/images/childrens-metadata-cover.jpg'
 projectImageAlt: image of young boy reading a Spanish children's book while sitting on a bed
