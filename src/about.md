@@ -1,14 +1,14 @@
 ---
 layout: 'base-about.njk'
 title: 'About'
-description: Whether I’m wrangling content in LibGuides, crafting metadata application profiles, or designing digital exhibits, I love using technology to improve access & discovery for all users
+description: Whether I’m designing digital exhibits, configuring chatbots, or migrating metadata, I love using technology to improve access & discovery for all users
 ---
 
 {% include 'parts/default-page-header.njk' %}
 
 ## Work Experience
 
-Prior to pursuing an MLIS, I worked for several years as a Web and Product Designer for various nonprofits, technology startups, and corporations where I led web design, digital strategy, user experience design, and interface accessibility activities. Some of my previous employers & contracts include KPMG, Results for America, District of Columbia Public Schools, CityBridge Education, Penguin Random House, and The Land Trust Alliance.
+As a Librarian-in-Residence at the Library of Congress, I lead and collaborate on projects that help elevate the user experience for the millions of visitors and researchers that interact with the Library each year. Prior to pursuing an MLIS, I worked for several years as a Web and Product Designer for various nonprofits, technology startups, and corporations where I led web design, digital strategy, user experience design, and accessibility efforts. Some of my previous employers & contracts include KPMG, Results for America, District of Columbia Public Schools, CityBridge Education, Penguin Random House, and The Land Trust Alliance.
 
 ## Professional Goals & Interests
 
@@ -29,4 +29,4 @@ Some of my professional interests include:
 
 **Design & Research Skills:** information architecture; low-to-high fidelity mockups; application prototyping; human-centered design activities (e.g. user stories development, user journeys, card sorting, affinity exercises); user research (e.g. surveys, interviews, testing); competitive analysis; data visualization
 
-**Technologies:** HTML/CSS/basic JS; JSON; Git/Github; static site generation (Jekyll, Eleventy); Omeka (hosted); LibGuides; content management systems (WordPress, Storyblok); user interface frameworks (Bootstrap, Material); Figma; collaboration tools (Slack, Teams, Confluence, Zoom, Notion); RDF/XML; SPARQL; knowledge databases/graphs (Neo4j, Cypher)
+**Technologies:** HTML/CSS/basic JS; JSON; Git/Github; static site generation (Jekyll, Eleventy); Omeka (hosted); Springshare apps; content management systems (WordPress, Storyblok); user interface frameworks (Bootstrap, Material); Figma; collaboration tools (Slack, Teams, Confluence, Zoom, Notion); RDF/XML; SPARQL; knowledge databases/graphs (Neo4j, Cypher)
