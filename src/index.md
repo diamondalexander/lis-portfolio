@@ -1,7 +1,7 @@
 ---
 layout: 'homepage-alt.njk'
 title: 'Portfolio'
-subheading: 'MLIS Candidate, June 2024'
-description: 'Specializing in Information Technology, Digital Libraries, and Archives/Records Management'
+subheading: 'Librarian-in-Residence, Library of Congress'
+description: 'Specializing in Digital Collections, Metadata, and Experimental Data'
 permalink: /
 ---
