@@ -10,7 +10,6 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
     
     return {
-      pathPrefix: "/lis-portfolio/",
       dir: {
         input: "src",
         output: "public"
